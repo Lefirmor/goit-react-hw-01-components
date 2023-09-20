@@ -1,0 +1,24 @@
+.name{
+    font-size: large;
+    text-align: center;
+    
+}
+.avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+    
+}
+.tag{
+    text-align: center;
+}
+.location{
+    text-align: center;
+}
+.stats{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}

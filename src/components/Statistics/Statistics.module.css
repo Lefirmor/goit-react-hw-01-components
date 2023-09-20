@@ -1,0 +1,11 @@
+.statistics{
+    
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+.statList{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}

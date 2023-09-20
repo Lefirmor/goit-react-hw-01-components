@@ -1,0 +1,19 @@
+.friendList {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 30px;
+  list-style: none;
+}
+.isOnline {
+  background-color: green;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
+.isOffline {
+  background-color: red;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
