@@ -1,4 +1,4 @@
-import PtopTypes from 'prop-types';
+
 import css from './Transactions.module.css';
 const TransactionsTable = ({ data }) => {
   return (

@@ -1,6 +1,6 @@
-import PropTypes from 'prop-types';
+
 import { StatisticsData } from './Statistics';
-import css from './Statistics.module.css';
+// import css from './Statistics.module.css';
 import data from '../data.json/data.json';
 
 export const Statistics = () => {
